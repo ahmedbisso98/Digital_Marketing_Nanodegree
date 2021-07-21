@@ -44,7 +44,7 @@ The following describes what each project consisted of
 >- which audience performed best.
 - provide recommendations for future optimization.
 
-Project 8 - full Portfolio
+## Project 8 - full Portfolio
 - create Freelancing accounts on:
 >- Freelancer
 >- People Per Hour
